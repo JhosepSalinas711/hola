@@ -2,4 +2,10 @@
 
 ## Segundo Periodo Académico 2025
 
-Este es el repositorio de las clases impartidas durante el primer trimestre
+Este es el repositorio de las clases impartidas durante el trimestre
+
+### Temas
+
+- Javascript
+- HTML
+- CSS
